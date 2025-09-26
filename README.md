@@ -22,20 +22,12 @@ Fokus keahlian saya terbagi antara pengembangan sistem dan komputasi data:
 
 ---
 
-### 📊 Aktivitas GitHub
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=**FairuzAthallah88**&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**FairuzAthallah88**&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 🔗 Mari Berkolaborasi
 
 Saya selalu terbuka untuk proyek IoT, robotika, atau *data-driven* yang menantang.
 
-- **LinkedIn**: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](**[Link Profil LinkedIn Anda]**)
-- **Portofolio/Blog**: [![Website Badge](https://img.shields.io/badge/-Portofolio-1A2C3C?style=flat-square&logo=codesandbox&logoColor=white)](**[Link Portofolio Anda jika ada]**)
+- **LinkedIn**: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](**https://www.linkedin.com/in/fairuz-athallah-57001923b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**)
+- **Instagram**: [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](**https://www.instagram.com/fairuzathh_?igsh=cXMwZmc0cTd4a2Nl**)
 
 ---
 
