@@ -24,10 +24,10 @@ Fokus keahlian saya terbagi antara pengembangan sistem dan komputasi data:
 
 ### 🔗 Mari Berkolaborasi
 
-Saya selalu terbuka untuk proyek IoT, robotika, atau *data-driven* yang menantang.
+Saya selalu terbuka untuk proyek IoT, robotika, atau data-driven yang menantang.
 
-- **LinkedIn**: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](**https://www.linkedin.com/in/fairuz-athallah-57001923b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**)
-- **Instagram**: [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](**https://www.instagram.com/fairuzathh_?igsh=cXMwZmc0cTd4a2Nl**)
+- **LinkedIn**: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fairuz-athallah-57801923b)
+- **Instagram**: [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fairuzathllh_dgsd=CMwZmQ0etDA4ZWI)
 
 ---
 
